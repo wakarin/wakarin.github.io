@@ -1,6 +1,7 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: Wakarin.github.io
+author: Kenta Yamazaki
+url: https://wakarin.github.io
+description: DeepLearning, linux, bike, ski, car
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
